@@ -27,7 +27,7 @@ class App extends Component {
   /* Lifecycle Methods ---------------------------------- */
 
   componentDidMount() {
-    fetch('/data.json')
+    fetch('./data.json')
     .then(response => response.json())
     .then(json => {this.setState({data: json, loading: false})});
   }
