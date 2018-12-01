@@ -1,0 +1,4502 @@
+[
+  {
+    "incident_date": "November 11, 2018",
+    "state": "Arizona",
+    "city_or_county": "Globe",
+    "address": "598 N Broad St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 10, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "4300 block of Sun Ridge Drive",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 7, 2018",
+    "state": "California",
+    "city_or_county": "Thousand Oaks",
+    "address": "99 Rolling Oaks Dr",
+    "num_killed": 13,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 3, 2018",
+    "state": "New York",
+    "city_or_county": "Watertown",
+    "address": "136 Franklin St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 2, 2018",
+    "state": "California",
+    "city_or_county": "Long Beach (North Long Beach)",
+    "address": "5800 block of Brayton Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 2, 2018",
+    "state": "Florida",
+    "city_or_county": "Tallahassee",
+    "address": "1950 Thomasville Rd",
+    "num_killed": 3,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 1, 2018",
+    "state": "Missouri",
+    "city_or_county": "Springfield",
+    "address": "906 E Locust St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 1, 2018",
+    "state": "Minnesota",
+    "city_or_county": "Minneapolis",
+    "address": "3400 block of Girard Ave N",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 31, 2018",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "19000 block of Langholm St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 30, 2018",
+    "state": "California",
+    "city_or_county": "Vallejo",
+    "address": "Woodrow Ave and Reis Ave",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 30, 2018",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "65th Place and Vermont Avenue",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 29, 2018",
+    "state": "California",
+    "city_or_county": "Riverside",
+    "address": "3252 Mission Inn Ave",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 28, 2018",
+    "state": "Arkansas",
+    "city_or_county": "El Dorado",
+    "address": "2 Whites Quarters",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 27, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "4275 Ladyslipper",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 27, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Pittsburgh",
+    "address": "5898 Wilkins Ave",
+    "num_killed": 11,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 26, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Jersey City",
+    "address": "77 Brinkerhoff St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 24, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "6200 block of S King Dr",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 22, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "9231 S Cottage Grove Av",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2018",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "900 block of A Philip Randolph Blvd",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2018",
+    "state": "Washington",
+    "city_or_county": "Lakewood",
+    "address": "8722 S Tacoma Way",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 16, 2018",
+    "state": "Georgia",
+    "city_or_county": "Atlanta",
+    "address": "Broad St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 15, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Columbia",
+    "address": "1075 Carters Creek Pike",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 14, 2018",
+    "state": "Texas",
+    "city_or_county": "Fort Worth",
+    "address": "5310 E Rosedale St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 14, 2018",
+    "state": "California",
+    "city_or_county": "Palo Alto (East Palo Alto)",
+    "address": "2500 block of Pulgas Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 14, 2018",
+    "state": "Nevada",
+    "city_or_county": "Las Vegas",
+    "address": "2815 W Lake Mead Blvd",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 13, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "400 block of Midlothian Road",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 13, 2018",
+    "state": "Texas",
+    "city_or_county": "Taft",
+    "address": "511 Wilburn St",
+    "num_killed": 4,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 12, 2018",
+    "state": "South Carolina",
+    "city_or_county": "Spartanburg",
+    "address": "1620 John B White Sr Blvd",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 12, 2018",
+    "state": "Nevada",
+    "city_or_county": "Las Vegas",
+    "address": "6500 block of W Charleston Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 8, 2018",
+    "state": "Alabama",
+    "city_or_county": "Birmingham",
+    "address": "Joppa Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 6, 2018",
+    "state": "Oklahoma",
+    "city_or_county": "Tulsa",
+    "address": "9453 E 31st St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 6, 2018",
+    "state": "Texas",
+    "city_or_county": "Houston",
+    "address": "6802 Cullen Blvd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 6, 2018",
+    "state": "California",
+    "city_or_county": "Oakland",
+    "address": "Williams St and Telegraph Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 4, 2018",
+    "state": "New Mexico",
+    "city_or_county": "Espanola (Española)",
+    "address": "1813 N Riverside Dr",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 4, 2018",
+    "state": "Georgia",
+    "city_or_county": "Swainsboro",
+    "address": "Lucky St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 3, 2018",
+    "state": "South Carolina",
+    "city_or_county": "Florence",
+    "address": "932 Ashton Dr",
+    "num_killed": 2,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 3, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "5101 Germantown Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 1, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "500 block of S Michigan Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 30, 2018",
+    "state": "California",
+    "city_or_county": "Compton",
+    "address": "200 block N Long Beach Blvd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 29, 2018",
+    "state": "Florida",
+    "city_or_county": "Orlando",
+    "address": "1700 block of 24th St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 28, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "5100 block of Haverford Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 24, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "1528 Ragan St",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 23, 2018",
+    "state": "California",
+    "city_or_county": "Bakersfield",
+    "address": "2600 block of Chandler Court",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 23, 2018",
+    "state": "California",
+    "city_or_county": "Baldwin Park",
+    "address": "3700 block of Loma Lane",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 22, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "1800 block of Benning Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 22, 2018",
+    "state": "New York",
+    "city_or_county": "Hempstead",
+    "address": "Dolan St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 20, 2018",
+    "state": "Maryland",
+    "city_or_county": "Aberdeen",
+    "address": "1501 Perryman Rd",
+    "num_killed": 4,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 20, 2018",
+    "state": "New York",
+    "city_or_county": "Syracuse",
+    "address": "1317 Midland Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 19, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Masontown",
+    "address": "1 E Church St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 19, 2018",
+    "state": "Wisconsin",
+    "city_or_county": "Middleton",
+    "address": "1850 Deming Way",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 19, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "W Cermak Rd and S state St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 18, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans (Algiers)",
+    "address": "1100 block of Sumner St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 18, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "4622 Faronia Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 17, 2018",
+    "state": "Maryland",
+    "city_or_county": "Silver Spring",
+    "address": "123 Amberleigh Dr",
+    "num_killed": 4,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 15, 2018",
+    "state": "Wisconsin",
+    "city_or_county": "Milwaukee",
+    "address": "820 S 21st St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 12, 2018",
+    "state": "California",
+    "city_or_county": "Bakersfield",
+    "address": "660 Manwell Blvd",
+    "num_killed": 6,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 11, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "10600 block of S Bensley Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 10, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "140 Lt George W Lee Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 9, 2018",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "N/A",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 9, 2018",
+    "state": "Illinois",
+    "city_or_county": "Elgin",
+    "address": "550 S McLean Blvd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 9, 2018",
+    "state": "Alabama",
+    "city_or_county": "Auburn",
+    "address": "224 W Magnolia St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 7, 2018",
+    "state": "Minnesota",
+    "city_or_county": "Minneapolis",
+    "address": "2024 N Washington Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 6, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cincinnati",
+    "address": "511 Walnut St",
+    "num_killed": 4,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 4, 2018",
+    "state": "Georgia",
+    "city_or_county": "Albany",
+    "address": "1200 block of Gillespie Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "Arkansas",
+    "city_or_county": "Fort Smith",
+    "address": "801 Garrison Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "Texas",
+    "city_or_county": "San Antonio",
+    "address": "600 block of Morningview St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "Alabama",
+    "city_or_county": "Birmingham",
+    "address": "500 23rd St S",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Paterson",
+    "address": "43 12th Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "California",
+    "city_or_county": "San Bernardino",
+    "address": "1277 East Lynwood Drive",
+    "num_killed": 0,
+    "num_injured": 8,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Trenton",
+    "address": "Stuyvesant Ave and Bryn Mawr Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 1, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cleveland",
+    "address": "3232 Lakeside Ave East",
+    "num_killed": 1,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 1, 2018",
+    "state": "Florida",
+    "city_or_county": "Fort Lauderdale (Lauderhill)",
+    "address": "5225 NW 24th Ct",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 31, 2018",
+    "state": "Colorado",
+    "city_or_county": "Aurora",
+    "address": "1900 block of Peoria St",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 27, 2018",
+    "state": "Arkansas",
+    "city_or_county": "Pine Bluff",
+    "address": "2600 block of W 34th Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 26, 2018",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "2 Independent Dr",
+    "num_killed": 3,
+    "num_injured": 9,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 26, 2018",
+    "state": "Texas",
+    "city_or_county": "Wichita Falls",
+    "address": "2400 block of Sheppard Access Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 25, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Nashville",
+    "address": "1564 9th Ave N",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 25, 2018",
+    "state": "Virginia",
+    "city_or_county": "Richmond",
+    "address": "4 N 18th St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 23, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "5800 block of Oakland St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 22, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "I-64 and Jefferson Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "2119 E Alcy Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 20, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Jackson",
+    "address": "60 Heritage Square",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 20, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cleveland",
+    "address": "E 94th St and Kinsman Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 19, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "7400 block of S Dante Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 18, 2018",
+    "state": "New York",
+    "city_or_county": "Bronx",
+    "address": "925 Allerton Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 17, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1600 block of W 65th St",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 15, 2018",
+    "state": "South Carolina",
+    "city_or_county": "Greenwood",
+    "address": "N/A",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 14, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Wyncote",
+    "address": "1000 S Easton Rd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 12, 2018",
+    "state": "California",
+    "city_or_county": "Clearlake",
+    "address": "4786 Yarrington Court",
+    "num_killed": 4,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 12, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Pittsburgh (East Liberty)",
+    "address": "5600 block of Broad St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 11, 2018",
+    "state": "Ohio",
+    "city_or_county": "Columbus",
+    "address": "1280 Summit St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 11, 2018",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "Geneva St and Mission St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 11, 2018",
+    "state": "Colorado",
+    "city_or_county": "Thornton",
+    "address": "4050 E 100th Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 10, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "1515 N 13th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 10, 2018",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "6300 block of Vinewood St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 8, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Paterson",
+    "address": "Mercer St and Franklin St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 8, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "North 12th Street and West Huntingdon Street",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1 block of N Leclaire Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "900 block of S Karlov Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1600 block of S Avers Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1300 block of W 76th St",
+    "num_killed": 0,
+    "num_injured": 8,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1300 block of S Millard Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 4, 2018",
+    "state": "Missouri",
+    "city_or_county": "Kansas City",
+    "address": "E 18th St and Highland Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 4, 2018",
+    "state": "Nevada",
+    "city_or_county": "Las Vegas",
+    "address": "3400 block of Coran Ln",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 4, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1600 block of N Leclaire Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 4, 2018",
+    "state": "Wisconsin",
+    "city_or_county": "Milwaukee",
+    "address": "40th St and Vliet St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 31, 2018",
+    "state": "California",
+    "city_or_county": "Gardena",
+    "address": "1212 West 135th Street",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 30, 2018",
+    "state": "Georgia",
+    "city_or_county": "Savannah",
+    "address": "12328 Largo Dr",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 30, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1200 block of S Avers Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 29, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "York",
+    "address": "100 block of E Maple St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 29, 2018",
+    "state": "Arizona",
+    "city_or_county": "Phoenix",
+    "address": "2501 E Van Buren St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 29, 2018",
+    "state": "Michigan",
+    "city_or_county": "Lansing",
+    "address": "Spring and River Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 28, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "3400 S Claiborne Ave",
+    "num_killed": 3,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 28, 2018",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "8801 S Vermont Ave",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 27, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1100 block of S Troy St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 27, 2018",
+    "state": "Texas",
+    "city_or_county": "Robstown",
+    "address": "603 East Avenue J",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 26, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cleveland",
+    "address": "18416 St Clair Ave",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 26, 2018",
+    "state": "California",
+    "city_or_county": "Oakland",
+    "address": "73rd Ave and Bancroft Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 26, 2018",
+    "state": "Texas",
+    "city_or_county": "Dallas",
+    "address": "3019 South Blvd",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 25, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "7000 block of Bullard Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 23, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "6400 block of S May St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 21, 2018",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "1000 block of Dundalk Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 21, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3100 block of W Fulton St",
+    "num_killed": 2,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 20, 2018",
+    "state": "Washington",
+    "city_or_county": "Sunnyside",
+    "address": "500 block of S 15th St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 20, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Elizabeth",
+    "address": "323 Irvington Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 18, 2018",
+    "state": "Oklahoma",
+    "city_or_county": "Oklahoma City",
+    "address": "7201 Melrose Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 16, 2018",
+    "state": "Florida",
+    "city_or_county": "Palm Beach Gardens (Riviera Beach)",
+    "address": "2100 block of W 28th St",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 16, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "300 block of 53rd St NE",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 16, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "2100 block of N 4th St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 15, 2018",
+    "state": "Colorado",
+    "city_or_county": "Denver",
+    "address": "50th Ave and Grant St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 15, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Chattanooga",
+    "address": "1400 Cowart St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 14, 2018",
+    "state": "Maryland",
+    "city_or_county": "Fort Washington",
+    "address": "9500 block of Fort Foote Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 13, 2018",
+    "state": "Virginia",
+    "city_or_county": "Richmond",
+    "address": "1401 Roseneath Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 12, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "3678 Powers Rd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 11, 2018",
+    "state": "Texas",
+    "city_or_county": "Houston",
+    "address": "9550 Bissonnet St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 11, 2018",
+    "state": "Florida",
+    "city_or_county": "Reddick",
+    "address": "16300 block of NW Gainesville Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 9, 2018",
+    "state": "Delaware",
+    "city_or_county": "Wilmington",
+    "address": "2709 Ferris Rd",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 9, 2018",
+    "state": "Florida",
+    "city_or_county": "Orlando",
+    "address": "Southland Blvd and Orange Blossom Trail",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 8, 2018",
+    "state": "Alabama",
+    "city_or_county": "Brandon",
+    "address": "565 US-80",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 8, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "Mount Moriah Rd and Mendenhall Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 7, 2018",
+    "state": "Alabama",
+    "city_or_county": "Wetumpka",
+    "address": "135 Granite Way",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2018",
+    "state": "New York",
+    "city_or_county": "Brooklyn",
+    "address": "280 Herkimer St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2018",
+    "state": "New York",
+    "city_or_county": "Albany",
+    "address": "First St and Lexington Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2018",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "1600 block of W. 2nd Street",
+    "num_killed": 3,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2018",
+    "state": "Virginia",
+    "city_or_county": "Virginia Beach",
+    "address": "1800 block of Atlantic Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2018",
+    "state": "Ohio",
+    "city_or_county": "Lima",
+    "address": "1440 Bellefontaine Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 4, 2018",
+    "state": "Indiana",
+    "city_or_county": "Gary",
+    "address": "3400 block of Pierce St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 4, 2018",
+    "state": "Georgia",
+    "city_or_county": "Atlanta",
+    "address": "5456 E Fayetteville Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 3, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "1700 block of Billups Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 3, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "1700 block of Benning Rd NE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 2, 2018",
+    "state": "New York",
+    "city_or_county": "Buffalo",
+    "address": "Grape St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 1, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3400 block of W Walnut Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 30, 2018",
+    "state": "Georgia",
+    "city_or_county": "Ashburn",
+    "address": "800 Block of W. Washington",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 30, 2018",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "4000 block of Penhurst Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 30, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Jersey City",
+    "address": "Lexington Ave and John F Kennedy Blvd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 28, 2018",
+    "state": "Maryland",
+    "city_or_county": "Annapolis",
+    "address": "888 Bestgate Rd",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 27, 2018",
+    "state": "California",
+    "city_or_county": "Oakland",
+    "address": "8901 MacArthur Boulevard",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 27, 2018",
+    "state": "Texas",
+    "city_or_county": "San Antonio",
+    "address": "100 block of Holly Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 27, 2018",
+    "state": "Connecticut",
+    "city_or_county": "Hartford",
+    "address": "124 Hillside Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 25, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3900 block of S Vincennes Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Sanford",
+    "address": "109 S Steele St",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "Florida",
+    "city_or_county": "Punta Gorda",
+    "address": "2450 Harbour Dr",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "Florida",
+    "city_or_county": "Indiantown",
+    "address": "17068 SW Palm Beach St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "Florida",
+    "city_or_county": "Palm Beach Gardens (Riviera Beach)",
+    "address": "1200 block of W 35th St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "Ohio",
+    "city_or_county": "Sandusky",
+    "address": "1504 Milan Rd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2018",
+    "state": "Indiana",
+    "city_or_county": "Gary",
+    "address": "2500 block of Harrison Street",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 23, 2018",
+    "state": "Kansas",
+    "city_or_county": "Wichita",
+    "address": "1403 Harding  St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 23, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "100 block of East 51st St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 23, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Covington",
+    "address": "319 N High St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 22, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Homestead (Munhall)",
+    "address": "1324 Margaret St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 21, 2018",
+    "state": "California",
+    "city_or_county": "San Bernardino",
+    "address": "279 W Base Line",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 21, 2018",
+    "state": "Louisiana",
+    "city_or_county": "Morganza",
+    "address": "Deaton Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 21, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "6500 block of S Claremont Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 20, 2018",
+    "state": "California",
+    "city_or_county": "Modesto",
+    "address": "2300 block of West Hatch Road",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 19, 2018",
+    "state": "Alabama",
+    "city_or_county": "Huntsville",
+    "address": "905 Lee Dr NW",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2018",
+    "state": "Illinois",
+    "city_or_county": "Bloomington",
+    "address": "311 Riley Dr",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1300 block of S Loomis St",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Charlotte",
+    "address": "3215 Queen City Dr",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Trenton",
+    "address": "635 S Clinton Ave",
+    "num_killed": 1,
+    "num_injured": 19,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2018",
+    "state": "Georgia",
+    "city_or_county": "Macon",
+    "address": "325 Edgewood Ln",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "2200 block of S Sacramento Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "400 block of Penn St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2018",
+    "state": "California",
+    "city_or_county": "Union City",
+    "address": "32992 Mission Blvd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2018",
+    "state": "California",
+    "city_or_county": "Tracy",
+    "address": "West 6th Street",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2018",
+    "state": "New York",
+    "city_or_county": "Buffalo",
+    "address": "Marigold Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2018",
+    "state": "Colorado",
+    "city_or_county": "Westminster",
+    "address": "5150 W 80th Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 12, 2018",
+    "state": "New York",
+    "city_or_county": "Bronx",
+    "address": "W 166th St and  Summit Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 11, 2018",
+    "state": "Alabama",
+    "city_or_county": "Montgomery",
+    "address": "3220 block of Virginia Pines Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 11, 2018",
+    "state": "Florida",
+    "city_or_county": "Orlando",
+    "address": "4932 Eaglesmere Dr",
+    "num_killed": 5,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "Florida",
+    "city_or_county": "Bradenton",
+    "address": "5627 14th St W",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "California",
+    "city_or_county": "Valley Village",
+    "address": "12719 Tiara St",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "Indiana",
+    "city_or_county": "Indianapolis (Lawrence)",
+    "address": "4745 N Richardt Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "Illinois",
+    "city_or_county": "Aurora",
+    "address": "300 block of W Park Ave",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "Illinois",
+    "city_or_county": "Bloomington",
+    "address": "1200 block of Orchard Rd",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 10, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "6400 block of S Eberhart Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 9, 2018",
+    "state": "Massachusetts",
+    "city_or_county": "Boston",
+    "address": "14 Copeland St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 9, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Kannapolis",
+    "address": "1709 S Cannon Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 9, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "2000 block of 20th St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 5, 2018",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "Town Center Pkwy",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 3, 2018",
+    "state": "Texas",
+    "city_or_county": "Dallas",
+    "address": "4500 Spring Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 3, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1200 block of W 73rd Pl",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 2, 2018",
+    "state": "Nebraska",
+    "city_or_county": "Omaha",
+    "address": "S 11th St and Farnam St",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 2, 2018",
+    "state": "New York",
+    "city_or_county": "Buffalo",
+    "address": "Strauss Street",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 31, 2018",
+    "state": "South Carolina",
+    "city_or_county": "Timmonsville",
+    "address": "544 Chaney Grove Rd",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 27, 2018",
+    "state": "Louisiana",
+    "city_or_county": "Shreveport",
+    "address": "857 E Stoner Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 27, 2018",
+    "state": "Colorado",
+    "city_or_county": "Aurora",
+    "address": "15373 E 6th Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 25, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cincinnati",
+    "address": "1000 block of Ross Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 20, 2018",
+    "state": "Indiana",
+    "city_or_county": "Anderson",
+    "address": "1604 Madison Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 20, 2018",
+    "state": "Mississippi",
+    "city_or_county": "Hazlehurst",
+    "address": "513 Monticello St",
+    "num_killed": 1,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 18, 2018",
+    "state": "Texas",
+    "city_or_county": "Santa Fe",
+    "address": "16000 Hwy 6",
+    "num_killed": 10,
+    "num_injured": 13,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 16, 2018",
+    "state": "Texas",
+    "city_or_county": "Ponder",
+    "address": "610 Lone Star Park Ln",
+    "num_killed": 5,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 14, 2018",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "2020 Etting St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 13, 2018",
+    "state": "California",
+    "city_or_county": "Stockton",
+    "address": "2436 Belleview Street",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 13, 2018",
+    "state": "Mississippi",
+    "city_or_county": "Byhalia",
+    "address": "French Rd and Berta Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 13, 2018",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "365 W Manchester Avenue",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 12, 2018",
+    "state": "Nebraska",
+    "city_or_county": "Omaha",
+    "address": "3201 Decatur St",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 12, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Paulsboro",
+    "address": "275 W Buck St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 11, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "4800 block of Farlin Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 11, 2018",
+    "state": "Oklahoma",
+    "city_or_county": "Talihina",
+    "address": "2nd St and Dallas St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 9, 2018",
+    "state": "Nebraska",
+    "city_or_county": "Omaha",
+    "address": "Sahler St and N 48th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 9, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "5200 block of Minerva Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 7, 2018",
+    "state": "California",
+    "city_or_county": "San Diego",
+    "address": "15th St and J St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 6, 2018",
+    "state": "Oklahoma",
+    "city_or_county": "Stillwater",
+    "address": "2020 East Lakeview Road",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 6, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "499 North Watkins",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 5, 2018",
+    "state": "Georgia",
+    "city_or_county": "Columbus",
+    "address": "4944 Sentry Street",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 4, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Henderson",
+    "address": "519 Hilliard St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 4, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago Heights",
+    "address": "200 block of E 23rd St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 2, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3500 block of W Grenshaw St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 2, 2018",
+    "state": "Minnesota",
+    "city_or_county": "Minneapolis",
+    "address": "2400 block of Ogema Place",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 2, 2018",
+    "state": "New York",
+    "city_or_county": "Brooklyn",
+    "address": "Bristol St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "May 1, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "3200 block of Saint Claude Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 30, 2018",
+    "state": "Florida",
+    "city_or_county": "Pompano Beach",
+    "address": "4251 N Dixie Hwy",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 30, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "3600 block of New York Ave NE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 29, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Wartburg",
+    "address": "519 South Kingston St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 29, 2018",
+    "state": "Washington",
+    "city_or_county": "Seattle (Skyway)",
+    "address": "12603 Renton Ave S",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 29, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Monroe",
+    "address": "1500 block of Massey St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 29, 2018",
+    "state": "Florida",
+    "city_or_county": "West Palm Beach",
+    "address": "1969 S Military Trail",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 28, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Maxton",
+    "address": "Modest Rd",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 25, 2018",
+    "state": "Arkansas",
+    "city_or_county": "Pine Bluff",
+    "address": "300 block of West 24th Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 25, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "1151 Northdale Dr",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 24, 2018",
+    "state": "Michigan",
+    "city_or_county": "Flint",
+    "address": "2200 block of Ave A",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 22, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "1900 block of St Roch Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 22, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Antioch",
+    "address": "3571 Murfreesboro Pike",
+    "num_killed": 4,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 21, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "1800 block of W Diamond St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 20, 2018",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "3rd Street and Quesada Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 18, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Asheville",
+    "address": "73 Hansel Ave",
+    "num_killed": 4,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 15, 2018",
+    "state": "Louisiana",
+    "city_or_county": "Shreveport",
+    "address": "6956 Jewella Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 9, 2018",
+    "state": "California",
+    "city_or_county": "Vallejo",
+    "address": "201 Maine St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 8, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Hickory",
+    "address": "247 1st Ave NW",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 8, 2018",
+    "state": "Florida",
+    "city_or_county": "Miami",
+    "address": "1300 block of NW 63rd Terrace",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 6, 2018",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "6100 block of Transylvania Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 6, 2018",
+    "state": "Virginia",
+    "city_or_county": "Virginia Beach",
+    "address": "5800 block of Pickering St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 4, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "3300 Garden Oaks Drive",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 2, 2018",
+    "state": "Texas",
+    "city_or_county": "Houston",
+    "address": "8500 block of Redcliff Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 1, 2018",
+    "state": "Alabama",
+    "city_or_county": "Mobile",
+    "address": "3556 Halls Mill Rd",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "April 1, 2018",
+    "state": "Michigan",
+    "city_or_county": "Saginaw",
+    "address": "600 block of Yale St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 31, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Asbury Park",
+    "address": "Atlantic Ave and Monmouth Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 29, 2018",
+    "state": "Texas",
+    "city_or_county": "Plano",
+    "address": "7401 Alma Dr",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 29, 2018",
+    "state": "New Jersey",
+    "city_or_county": "Camden",
+    "address": "Kaighn Ave and Haddon Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 24, 2018",
+    "state": "Utah",
+    "city_or_county": "Salt Lake City (West Valley City)",
+    "address": "3180 South 5600 West",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 21, 2018",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "949 Geneva Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 17, 2018",
+    "state": "Kentucky",
+    "city_or_county": "Louisville",
+    "address": "2928 W Kentucky St",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 17, 2018",
+    "state": "Illinois",
+    "city_or_county": "Harvey",
+    "address": "16700 S Halsted St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 13, 2018",
+    "state": "Florida",
+    "city_or_county": "Macclenny",
+    "address": "South Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 12, 2018",
+    "state": "California",
+    "city_or_county": "Modesto",
+    "address": "2000 block of Robertson Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 11, 2018",
+    "state": "Illinois",
+    "city_or_county": "Champaign",
+    "address": "700 block of N Hickory St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 11, 2018",
+    "state": "Indiana",
+    "city_or_county": "South Bend",
+    "address": "800 block of E Dayton St",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 11, 2018",
+    "state": "Michigan",
+    "city_or_county": "Saginaw",
+    "address": "Cumberland Ave and Hess St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 9, 2018",
+    "state": "North Carolina",
+    "city_or_county": "Wadesboro",
+    "address": "1300 E Caswell St",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 7, 2018",
+    "state": "Alabama",
+    "city_or_county": "Hurtsboro",
+    "address": "531 Main Street",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 4, 2018",
+    "state": "Illinois",
+    "city_or_county": "Rockford",
+    "address": "400 Howard Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 3, 2018",
+    "state": "Florida",
+    "city_or_county": "Miami",
+    "address": "1300 Block of NW 62nd Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "March 3, 2018",
+    "state": "New York",
+    "city_or_county": "Brooklyn",
+    "address": "Kings Highway and Utica Avenue",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 27, 2018",
+    "state": "Connecticut",
+    "city_or_county": "Bridgeport",
+    "address": "1306 Stratford Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 26, 2018",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "22000 block of Fenkell Ave",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 23, 2018",
+    "state": "Florida",
+    "city_or_county": "Palm Beach Gardens (Riviera Beach)",
+    "address": "W 23rd St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 18, 2018",
+    "state": "Texas",
+    "city_or_county": "San Antonio",
+    "address": "2893 Cinema Ridge",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 17, 2018",
+    "state": "Kansas",
+    "city_or_county": "Kansas City",
+    "address": "1615 Minnesota",
+    "num_killed": 1,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 17, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "3188 N Watkins Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 16, 2018",
+    "state": "Oklahoma",
+    "city_or_county": "Oklahoma City",
+    "address": "1700 block of SW 15",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 14, 2018",
+    "state": "Florida",
+    "city_or_county": "Pompano Beach (Parkland)",
+    "address": "5901 Pine Island Rd",
+    "num_killed": 17,
+    "num_injured": 17,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 13, 2018",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "5400 block of Andry Street",
+    "num_killed": 3,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 11, 2018",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "19432 Lamont Street",
+    "num_killed": 4,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 10, 2018",
+    "state": "Kentucky",
+    "city_or_county": "Paintsville",
+    "address": "413 Mill Street",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 7, 2018",
+    "state": "Florida",
+    "city_or_county": "Lake Worth (Lantana)",
+    "address": "I-95 and Lantana Ave",
+    "num_killed": 3,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 5, 2018",
+    "state": "Colorado",
+    "city_or_county": "Colorado Springs",
+    "address": "4225 Galley Rd",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "February 3, 2018",
+    "state": "Ohio",
+    "city_or_county": "Cleveland (Garfield Heights)",
+    "address": "11321 Broadway Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 31, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "Goodfellow Blvd and Dr Martin Luther King Dr",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 28, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Melcroft",
+    "address": "1301 Indian Creek Valley Rd",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 28, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Reading",
+    "address": "123 S 3rd St",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 28, 2018",
+    "state": "Indiana",
+    "city_or_county": "Indianapolis",
+    "address": "1313 N Sherman Dr",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 27, 2018",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "243 East 119th St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 27, 2018",
+    "state": "Kentucky",
+    "city_or_county": "Bowling Green",
+    "address": "645 Pearl Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 25, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "1600 block of Kenilworth Ave NE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 23, 2018",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "N 24th St and Ridge Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 23, 2018",
+    "state": "Kentucky",
+    "city_or_county": "Benton",
+    "address": "416 High School Rd",
+    "num_killed": 2,
+    "num_injured": 14,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 21, 2018",
+    "state": "Florida",
+    "city_or_county": "Orlando",
+    "address": "3101 Willow Bend Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 21, 2018",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3200 W Division St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 17, 2018",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "2000 block of 16th St SE",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 15, 2018",
+    "state": "Florida",
+    "city_or_county": "Alachua",
+    "address": "14223 NW 156th Pl",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 14, 2018",
+    "state": "Alabama",
+    "city_or_county": "Eutaw",
+    "address": "809 Mesopotamia St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 14, 2018",
+    "state": "Alabama",
+    "city_or_county": "Madison",
+    "address": "101 Westchester Dr",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 12, 2018",
+    "state": "Tennessee",
+    "city_or_county": "Nashville",
+    "address": "2614 Jenkins Ct",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 11, 2018",
+    "state": "Missouri",
+    "city_or_county": "Saint Robert (St Robert)",
+    "address": "St Robert Outer Road and Houston Road",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 7, 2018",
+    "state": "Alabama",
+    "city_or_county": "Union Springs",
+    "address": "U.S. Highway 29",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 7, 2018",
+    "state": "Florida",
+    "city_or_county": "Plantation",
+    "address": "5225 W Broward Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 5, 2018",
+    "state": "Mississippi",
+    "city_or_county": "Hattiesburg",
+    "address": "6168 US 49",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 4, 2018",
+    "state": "Arkansas",
+    "city_or_county": "Brinkley",
+    "address": "615 W 6th St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "January 1, 2018",
+    "state": "Alabama",
+    "city_or_county": "Huntsville",
+    "address": "2025 Sparkman Dr NW",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 31, 2017",
+    "state": "Colorado",
+    "city_or_county": "Littleton (Highlands Ranch)",
+    "address": "3404 E County Line Rd",
+    "num_killed": 2,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 31, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "2335 Howard St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 31, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Long Branch",
+    "address": "635 Wall St",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 27, 2017",
+    "state": "Nevada",
+    "city_or_county": "Las Vegas",
+    "address": "3750 E Bonanza Rd",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 26, 2017",
+    "state": "Florida",
+    "city_or_county": "Miami",
+    "address": "NW 18th Ave and 86th Ter",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 24, 2017",
+    "state": "Mississippi",
+    "city_or_county": "Vicksburg",
+    "address": "1111 Mulberry Street",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 24, 2017",
+    "state": "Alabama",
+    "city_or_county": "Troy",
+    "address": "100 block of Chapman St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 23, 2017",
+    "state": "Louisiana",
+    "city_or_county": "Eunice",
+    "address": "100 block of City Avenue",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 23, 2017",
+    "state": "Alabama",
+    "city_or_county": "Birmingham",
+    "address": "3rd Ave N and 9th St N",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 21, 2017",
+    "state": "Louisiana",
+    "city_or_county": "Lafayette",
+    "address": "1500 block of N University Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 21, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "6600 block of Dorel St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 16, 2017",
+    "state": "Mississippi",
+    "city_or_county": "Mc Cool (Mccool)",
+    "address": "Ferguson Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 15, 2017",
+    "state": "California",
+    "city_or_county": "Pacoima",
+    "address": "13041 Jouett Street",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 13, 2017",
+    "state": "Ohio",
+    "city_or_county": "Columbus",
+    "address": "200 block of E Barthman Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 12, 2017",
+    "state": "Kentucky",
+    "city_or_county": "Louisville",
+    "address": "17th and Gallagher Streets",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 12, 2017",
+    "state": "Texas",
+    "city_or_county": "Garland",
+    "address": "1301 Rivercrest Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 9, 2017",
+    "state": "Massachusetts",
+    "city_or_county": "Boston",
+    "address": "Proctor St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 6, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "4620 N Broadway",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 4, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Pittsburgh",
+    "address": "7200 block of Everton St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 3, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "656 Marshall Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "December 2, 2017",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "5200 Woodward Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 30, 2017",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "11000 block of Gunston",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 24, 2017",
+    "state": "Mississippi",
+    "city_or_county": "Brookhaven",
+    "address": "119 Martin Street",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 24, 2017",
+    "state": "Ohio",
+    "city_or_county": "Cleveland",
+    "address": "11618 Buckeye Rd",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 18, 2017",
+    "state": "Minnesota",
+    "city_or_county": "Minneapolis",
+    "address": "3600 block of Emerson Avenue North",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 17, 2017",
+    "state": "Louisiana",
+    "city_or_county": "New Iberia",
+    "address": "900 Block of Mississippi St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 16, 2017",
+    "state": "Georgia",
+    "city_or_county": "Columbus",
+    "address": "1400 block of 15th Street",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 14, 2017",
+    "state": "California",
+    "city_or_county": "Corning",
+    "address": "17357 Stagecoach Rd",
+    "num_killed": 6,
+    "num_injured": 12,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 14, 2017",
+    "state": "California",
+    "city_or_county": "Richmond",
+    "address": "900 Block of View Dr",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 12, 2017",
+    "state": "Indiana",
+    "city_or_county": "Gary",
+    "address": "4601 Melton Rd",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 12, 2017",
+    "state": "California",
+    "city_or_county": "Fresno",
+    "address": "S Calvin Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 12, 2017",
+    "state": "Georgia",
+    "city_or_county": "Atlanta",
+    "address": "50 Lower Alabama St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 11, 2017",
+    "state": "Texas",
+    "city_or_county": "Dallas",
+    "address": "2532 Martin Luther King Jr Blvd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 11, 2017",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "Forstall Street and Burgundy Street",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 11, 2017",
+    "state": "North Carolina",
+    "city_or_county": "Fayetteville",
+    "address": "2835 Bragg Blvd",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 10, 2017",
+    "state": "Ohio",
+    "city_or_county": "Dayton (Trotwood)",
+    "address": "193 Olive Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 9, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "1800 block of Ringgold",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 5, 2017",
+    "state": "Texas",
+    "city_or_county": "Sutherland Springs",
+    "address": "216 4th St",
+    "num_killed": 27,
+    "num_injured": 20,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 4, 2017",
+    "state": "Texas",
+    "city_or_county": "Austin",
+    "address": "N Lamar Blvd and Masterson Pass",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 4, 2017",
+    "state": "Ohio",
+    "city_or_county": "Youngstown",
+    "address": "2810 Market St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 4, 2017",
+    "state": "California",
+    "city_or_county": "Santa Monica",
+    "address": "1515 Ocean Avenue",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 3, 2017",
+    "state": "Minnesota",
+    "city_or_county": "Minneapolis",
+    "address": "10th Ave S and E 24th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 3, 2017",
+    "state": "California",
+    "city_or_county": "Gardena",
+    "address": "E 163rd St and S Main St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 3, 2017",
+    "state": "New York",
+    "city_or_county": "Buffalo",
+    "address": "147 Roosevelt Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "November 3, 2017",
+    "state": "Louisiana",
+    "city_or_county": "Lacombe",
+    "address": "27600 block of Mirmar Street",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 29, 2017",
+    "state": "Texas",
+    "city_or_county": "Austin",
+    "address": "5500 block of Ave F",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 28, 2017",
+    "state": "Ohio",
+    "city_or_county": "Toledo",
+    "address": "1327 N Huron St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 28, 2017",
+    "state": "Virginia",
+    "city_or_county": "Petersburg",
+    "address": "N Sycamore St and Franklin",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 27, 2017",
+    "state": "Kentucky",
+    "city_or_county": "Louisville",
+    "address": "1716 Prentice St",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 27, 2017",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "1100 block of Fillmore",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 23, 2017",
+    "state": "California",
+    "city_or_county": "Clearlake Oaks",
+    "address": "13000 block of Anchor Village",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 22, 2017",
+    "state": "Connecticut",
+    "city_or_county": "Hartford",
+    "address": "Wethersfield Avenue and Elliott Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 22, 2017",
+    "state": "Alabama",
+    "city_or_county": "Lanett",
+    "address": "1606 19th St Sw",
+    "num_killed": 2,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2017",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "164 E Eubanks St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Nashville",
+    "address": "1277 12th Ave S",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Chester",
+    "address": "1200 block of W Carlas Ln",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 21, 2017",
+    "state": "Florida",
+    "city_or_county": "Tampa",
+    "address": "400 Block of E Nordica St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 18, 2017",
+    "state": "Maryland",
+    "city_or_county": "Edgewood",
+    "address": "2111 Emmorton Park Rd",
+    "num_killed": 3,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 17, 2017",
+    "state": "New York",
+    "city_or_county": "Brooklyn",
+    "address": "181 Martense St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 16, 2017",
+    "state": "Mississippi",
+    "city_or_county": "Meridian",
+    "address": "5th Street",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 15, 2017",
+    "state": "Texas",
+    "city_or_county": "Houston",
+    "address": "6233 Gulfton St",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 15, 2017",
+    "state": "Arizona",
+    "city_or_county": "Phoenix",
+    "address": "107th Ave and Camelback Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 12, 2017",
+    "state": "California",
+    "city_or_county": "Aliso Viejo",
+    "address": "6 Asbury Ct",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 11, 2017",
+    "state": "Ohio",
+    "city_or_county": "Pedro",
+    "address": "15497 SR 93",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 10, 2017",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "25th St and Treat Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 9, 2017",
+    "state": "Texas",
+    "city_or_county": "Houston",
+    "address": "3352 Old Spanish Trail",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 7, 2017",
+    "state": "Arizona",
+    "city_or_county": "Phoenix",
+    "address": "87th Ave and Thomas Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 6, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "8000 block of S Marshfield",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 5, 2017",
+    "state": "Arizona",
+    "city_or_county": "Casa Grande",
+    "address": "400 block of W 13th Street",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 3, 2017",
+    "state": "Florida",
+    "city_or_county": "Miami",
+    "address": "2051 NW 65th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 1, 2017",
+    "state": "Kansas",
+    "city_or_county": "Lawrence",
+    "address": "1000 block of Massachusetts St",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "October 1, 2017",
+    "state": "Nevada",
+    "city_or_county": "Las Vegas",
+    "address": "3950 Las Vegas Blvd S",
+    "num_killed": 59,
+    "num_injured": 441,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 30, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "800 block of Kerr Avenue",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 28, 2017",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "2001 N Rocheblave St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 26, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "2531 Chelsea Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 26, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "3200 block of Lyndale Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 26, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "100 block of Pastorius St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 24, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "500 block of E. Patapsco Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 24, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Antioch",
+    "address": "3890 Pin Hook Rd",
+    "num_killed": 1,
+    "num_injured": 8,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 24, 2017",
+    "state": "New York",
+    "city_or_county": "Syracuse",
+    "address": "1226 E Fayette St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 24, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Mays Landing",
+    "address": "6000 block of Hoover Dr",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 23, 2017",
+    "state": "California",
+    "city_or_county": "Bakersfield",
+    "address": "818 Real Rd",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 23, 2017",
+    "state": "Illinois",
+    "city_or_county": "Danville",
+    "address": "Seminary St and Jackson St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 23, 2017",
+    "state": "Connecticut",
+    "city_or_county": "Hartford",
+    "address": "1164 Albany Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 20, 2017",
+    "state": "Indiana",
+    "city_or_county": "Gary",
+    "address": "4300 block of 23rd Ct",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 17, 2017",
+    "state": "Michigan",
+    "city_or_county": "Detroit",
+    "address": "5000 block of Stanton Street",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 17, 2017",
+    "state": "Virginia",
+    "city_or_county": "Petersburg",
+    "address": "300 Mistletoe St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 16, 2017",
+    "state": "South Carolina",
+    "city_or_county": "Columbia",
+    "address": "920 Lady Street",
+    "num_killed": 0,
+    "num_injured": 8,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 13, 2017",
+    "state": "Washington",
+    "city_or_county": "Rockford",
+    "address": "14626 S Jackson Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 13, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "York",
+    "address": "400 block of S Duke St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 13, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "3100 block of N 2nd St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 13, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "1000 block of Morehead St",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 10, 2017",
+    "state": "Louisiana",
+    "city_or_county": "New Orleans",
+    "address": "2101 N Claiborne Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 10, 2017",
+    "state": "Texas",
+    "city_or_county": "Plano",
+    "address": "1712 West Spring Creek Parkway",
+    "num_killed": 9,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 9, 2017",
+    "state": "Alabama",
+    "city_or_county": "Selma",
+    "address": "Kings Bend Road",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 6, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "2700 block of Madison",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 4, 2017",
+    "state": "Illinois",
+    "city_or_county": "Bellwood",
+    "address": "1000 block of Bellwood Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 3, 2017",
+    "state": "California",
+    "city_or_county": "Inglewood",
+    "address": "10100 block of S Firmona Ave",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2017",
+    "state": "Kentucky",
+    "city_or_county": "Louisville",
+    "address": "8008 Watterson Trail",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "September 2, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "8300 block of S Hermitage",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 28, 2017",
+    "state": "New Mexico",
+    "city_or_county": "Clovis",
+    "address": "701 N Main St",
+    "num_killed": 2,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 27, 2017",
+    "state": "California",
+    "city_or_county": "Sacramento",
+    "address": "7760 24th St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 27, 2017",
+    "state": "Indiana",
+    "city_or_county": "Evansville",
+    "address": "1127 Chestnut St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 25, 2017",
+    "state": "Florida",
+    "city_or_county": "Gainesville",
+    "address": "1600 NE 8th Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 24, 2017",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "10400 block of Balmoral Dr",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 22, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "300 block of N Central Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Newark",
+    "address": "Fabyan Place",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Newark",
+    "address": "700 block of S 19th St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "Cottage Avenue and Park Heights Avenue",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2017",
+    "state": "North Carolina",
+    "city_or_county": "Whitakers",
+    "address": "980 Fishing Creek Rd",
+    "num_killed": 4,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 21, 2017",
+    "state": "Tennessee",
+    "city_or_county": "Memphis",
+    "address": "262 Decatur St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 20, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "11901 S Loomis St",
+    "num_killed": 2,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 20, 2017",
+    "state": "New York",
+    "city_or_county": "Brooklyn",
+    "address": "100th St and Ave M",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 19, 2017",
+    "state": "Ohio",
+    "city_or_county": "Cleveland",
+    "address": "11143 Superior Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 16, 2017",
+    "state": "New York",
+    "city_or_county": "Wyandanch",
+    "address": "Merritt Ave and 15th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 14, 2017",
+    "state": "California",
+    "city_or_county": "North Hollywood",
+    "address": "Morrison St and Klump Ave",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 13, 2017",
+    "state": "California",
+    "city_or_county": "Sacramento",
+    "address": "4000 Block of Martin Luther King Jr Blvd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 13, 2017",
+    "state": "Virginia",
+    "city_or_county": "Suffolk",
+    "address": "8700 block of Quay Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 13, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "39th St and Melon St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 12, 2017",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "12310 Bellefontaine Rd",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 8, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1 block of East 37th Street",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 6, 2017",
+    "state": "New York",
+    "city_or_county": "Bronx",
+    "address": "Wickham Ave",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 6, 2017",
+    "state": "New York",
+    "city_or_county": "Bronx",
+    "address": "Unionport Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 6, 2017",
+    "state": "California",
+    "city_or_county": "Oakland",
+    "address": "1000 block of 106th Avenue",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Lakewood",
+    "address": "900 block of Brook Road",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2017",
+    "state": "South Carolina",
+    "city_or_county": "Allendale",
+    "address": "300 block of Ellis St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 5, 2017",
+    "state": "Florida",
+    "city_or_county": "Tallahassee",
+    "address": "1939 W Tennessee St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 4, 2017",
+    "state": "Montana",
+    "city_or_county": "Lodge Grass",
+    "address": "200 block of North Helen Street",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 3, 2017",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "3426 18th St NE",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 2, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "900 block of N Broadway",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 1, 2017",
+    "state": "Washington",
+    "city_or_county": "Toppenish",
+    "address": "8000 Block of Lateral C Rd",
+    "num_killed": 0,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 1, 2017",
+    "state": "California",
+    "city_or_county": "Fresno",
+    "address": "Mariposa St and A St",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "August 1, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "800 block of N Monticello Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 31, 2017",
+    "state": "Illinois",
+    "city_or_county": "Decatur",
+    "address": "Jasper St and Main St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 30, 2017",
+    "state": "Virginia",
+    "city_or_county": "Norfolk",
+    "address": "1500 block of Azalea Garden Rd",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 30, 2017",
+    "state": "Texas",
+    "city_or_county": "El Paso",
+    "address": "1810 George Dieter Dr",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 29, 2017",
+    "state": "New York",
+    "city_or_county": "Buffalo",
+    "address": "200 block of Carl St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 29, 2017",
+    "state": "North Carolina",
+    "city_or_county": "Salisbury",
+    "address": "115 W Fisher St",
+    "num_killed": 2,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 28, 2017",
+    "state": "Delaware",
+    "city_or_county": "Wilmington",
+    "address": "400 block of N Washington St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 27, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "2000 block of E 71st St",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 26, 2017",
+    "state": "North Carolina",
+    "city_or_county": "High Point",
+    "address": "2111 E. Green Drive",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 25, 2017",
+    "state": "Florida",
+    "city_or_county": "Jacksonville",
+    "address": "1040 Golfair Boulevard",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 23, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1500 block of East 82nd St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 23, 2017",
+    "state": "Louisiana",
+    "city_or_county": "Baton Rouge",
+    "address": "10360 Ave H",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 22, 2017",
+    "state": "Ohio",
+    "city_or_county": "Cincinnati",
+    "address": "130 E Clifton Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 19, 2017",
+    "state": "Virginia",
+    "city_or_county": "Richmond",
+    "address": "2300 block of Bethel St",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 19, 2017",
+    "state": "California",
+    "city_or_county": "Los Angeles",
+    "address": "Imperial Hwy and Broadway",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 18, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Trenton",
+    "address": "Hewitt St and Division St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 18, 2017",
+    "state": "Wisconsin",
+    "city_or_county": "Milwaukee",
+    "address": "3000 Block of N 39th St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 18, 2017",
+    "state": "Arizona",
+    "city_or_county": "El Mirage",
+    "address": "NW Grand Ave and W Thunderbird Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 15, 2017",
+    "state": "Pennsylvania",
+    "city_or_county": "Philadelphia",
+    "address": "21st and Fitzwater",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 15, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "12200 block of S Throop St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 9, 2017",
+    "state": "Virginia",
+    "city_or_county": "Lawrenceville",
+    "address": "500 block of Sturgeon Rd",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 8, 2017",
+    "state": "Illinois",
+    "city_or_county": "Alton",
+    "address": "700 block of Oakwood",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 8, 2017",
+    "state": "Ohio",
+    "city_or_county": "Cincinnati",
+    "address": "9917 Capstan Dr",
+    "num_killed": 1,
+    "num_injured": 8,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 6, 2017",
+    "state": "Mississippi",
+    "city_or_county": "Meridian",
+    "address": "Eighth Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2017",
+    "state": "Georgia",
+    "city_or_county": "Savannah",
+    "address": "Jefferson Street and West St. Julian Street",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago (Roseland)",
+    "address": "11000 block of S Eberhart",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 5, 2017",
+    "state": "Maine",
+    "city_or_county": "Madison",
+    "address": "300 block of Russell Rd",
+    "num_killed": 4,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 4, 2017",
+    "state": "Florida",
+    "city_or_county": "Orlando (Pine Castle)",
+    "address": "501 W Lancaster Rd",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 4, 2017",
+    "state": "Virginia",
+    "city_or_county": "Hampton",
+    "address": "500 block of Patterson Ave",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 4, 2017",
+    "state": "North Carolina",
+    "city_or_county": "Raleigh",
+    "address": "105 E South St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 3, 2017",
+    "state": "Alabama",
+    "city_or_county": "Prattville",
+    "address": "112 US 82",
+    "num_killed": 3,
+    "num_injured": 1,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 3, 2017",
+    "state": "Michigan",
+    "city_or_county": "Pontiac",
+    "address": "50 block of Thorpe St",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 2, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Jersey City",
+    "address": "Wilkinson Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 2, 2017",
+    "state": "South Carolina",
+    "city_or_county": "Greenwood",
+    "address": "SC 72 Bypass",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 1, 2017",
+    "state": "Illinois",
+    "city_or_county": "Momence",
+    "address": "2727 S 13000 Rd E",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 1, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Newark",
+    "address": "Lincoln Park and Pennsylvania Avenue",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 1, 2017",
+    "state": "California",
+    "city_or_county": "Oakland",
+    "address": "3200 Humboldt Ave",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "July 1, 2017",
+    "state": "Arkansas",
+    "city_or_county": "Little Rock",
+    "address": "220 W 6th St",
+    "num_killed": 0,
+    "num_injured": 25,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 30, 2017",
+    "state": "New York",
+    "city_or_county": "Bronx",
+    "address": "1650 Grand Concourse",
+    "num_killed": 2,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 27, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "200 block of S Lotus",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 25, 2017",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "5900 block of Southern Ave SE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 25, 2017",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "5000 block of Thekla Ave",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2017",
+    "state": "Florida",
+    "city_or_county": "Fort Lauderdale",
+    "address": "2335 NW 16th Ct",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2017",
+    "state": "New York",
+    "city_or_county": "New York (Manhattan)",
+    "address": "114th St and Manhattan Ave",
+    "num_killed": 0,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 24, 2017",
+    "state": "New Jersey",
+    "city_or_county": "Willingboro",
+    "address": "Pastoral Lane",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 22, 2017",
+    "state": "Georgia",
+    "city_or_county": "Atlanta",
+    "address": "1100 block of Osborne Street",
+    "num_killed": 1,
+    "num_injured": 6,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2017",
+    "state": "Missouri",
+    "city_or_county": "Saint Louis",
+    "address": "1900 block of N 14th St",
+    "num_killed": 3,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2017",
+    "state": "District of Columbia",
+    "city_or_county": "Washington",
+    "address": "3100 block of Buena Vista Terrace SE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "3300 block of W Crystal St",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 18, 2017",
+    "state": "South Carolina",
+    "city_or_county": "Myrtle Beach",
+    "address": "311 N Ocean Blvd",
+    "num_killed": 0,
+    "num_injured": 7,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2017",
+    "state": "Ohio",
+    "city_or_county": "Columbus",
+    "address": "6252 Busch Blvd",
+    "num_killed": 1,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 17, 2017",
+    "state": "Illinois",
+    "city_or_county": "Chicago",
+    "address": "1 block of North Latrobe",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 15, 2017",
+    "state": "Virginia",
+    "city_or_county": "Richmond",
+    "address": "4053 Old Brook Road",
+    "num_killed": 1,
+    "num_injured": 3,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 15, 2017",
+    "state": "New Mexico",
+    "city_or_county": "La Madera",
+    "address": "491 NM 111",
+    "num_killed": 5,
+    "num_injured": 0,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2017",
+    "state": "Ohio",
+    "city_or_county": "Canton",
+    "address": "14th St. NE and Gibbs Ave. NE",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2017",
+    "state": "Virginia",
+    "city_or_county": "Alexandria",
+    "address": "420 E Monroe Ave",
+    "num_killed": 1,
+    "num_injured": 5,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 14, 2017",
+    "state": "California",
+    "city_or_county": "San Francisco",
+    "address": "720 San Bruno",
+    "num_killed": 4,
+    "num_injured": 2,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 13, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "3300 block of Ayrdale Avenue",
+    "num_killed": 0,
+    "num_injured": 4,
+    "operations": "N/A"
+  },
+  {
+    "incident_date": "June 13, 2017",
+    "state": "Maryland",
+    "city_or_county": "Baltimore",
+    "address": "1200 block of Bonaparte Avenue",
+    "num_killed": 2,
+    "num_injured": 2,
+    "operations": "N/A"
+  }
+]

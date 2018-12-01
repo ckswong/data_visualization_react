@@ -1,26 +1,43 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import Chart from './components/Chart/Chart.js'
 
 class App extends Component {
+
+  state = {
+    year: 2018,
+    minThreshold: 3,
+    data: null,
+    loading: true
+  }
+
+  /* Handlers ------------------------------------------ */
+
+  selectHandler = (evt, stateKey) => {
+    const {state} = this;
+    const updatedVal =  Number(evt.target.value);
+    const isStateSame = state[stateKey] === updatedVal;
+    if (!isStateSame) {
+      let stateKeyValue = {};
+      stateKeyValue[stateKey] = updatedVal;
+      this.setState(stateKeyValue);
+    }
+  }
+
+  /* Lifecycle Methods ---------------------------------- */
+
+  componentDidMount() {
+    fetch('/data.json')
+    .then(response => response.json())
+    .then(json => {this.setState({data: json, loading: false})});
+  }
+
   render() {
+    const {loading} = this.state;
+    if(loading) return null
+
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Chart {...this.state} {...this}/>
     );
   }
 }

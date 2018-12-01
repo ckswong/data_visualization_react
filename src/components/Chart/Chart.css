@@ -1,0 +1,41 @@
+:root {
+  /* color palette */
+  --off-white: #F5F5F5;
+  --coral: #FF533D;
+  --dark-blue: #0F1626;
+  --light-grey: #FAFAFA;
+}
+
+
+body {
+  padding: 100px 50px;
+  font-family: 'Barlow', sans-serif;
+  background-color: var(--dark-blue);
+}
+
+.ChartTitle {
+  color: var(--off-white);
+  text-align: center;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+
+.ChartCitation {
+  color: var(--off-white);
+  text-align: center;
+  margin: 5px auto 30px;
+  font-style: italic;
+}
+
+.CharSelectsWrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.ChartSelectLabel {
+  color: white;
+  margin-right: 5px;
+}

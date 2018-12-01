@@ -1,0 +1,30 @@
+.Bar {
+  position: relative;
+  grid-row: 1 / span 5;
+  margin: 0 5px;
+}
+.Bar-value {
+  background-color: var(--coral);
+  opacity: 0.3;
+  border-bottom: 1px solid var(--dark-blue);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0px;
+  transition: all 1s linear;
+}
+
+.Bar-value:hover {
+  opacity: 0.8;
+}
+
+.Bar-title {
+  font-size: 20px;
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  color: var(--off-white);
+  transform: translateX(-50%) rotate(-45deg);
+}
