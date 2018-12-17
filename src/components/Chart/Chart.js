@@ -1,13 +1,13 @@
 import React from 'react';
 
 import './Chart.css';
-import Bar from './../Bar/Bar.js';
-import Select from './../Select/Select.js';
-import ChartMarkers from './../ChartMarkers/ChartMarkers.js';
+import Bar from '../Bar/Bar.js';
+import Select from '../Select/Select.js';
+import ChartMarkers from '../ChartMarkers/ChartMarkers.js';
 
 const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul","Aug", "Sep", "Oct", "Nov", "Dec"];
 
-const Chart = ({data, minThreshold, year, selectHandler}) => {
+const Chart = ({data, minThreshold, year, yearSelectHandler, thresholdSelectHandler}) => {
 
   /* Constants ---------------------------------------- */
 
@@ -87,11 +87,11 @@ const Chart = ({data, minThreshold, year, selectHandler}) => {
       <p className="ChartCitation" >*data from <a href="https://www.gunviolencearchive.org" target="_blank" rel="noopener noreferrer">gunviolencearchive.org</a></p>
       <div className="CharSelectsWrapper">
         <label className="ChartSelectLabel" htmlFor="minThreshold">Threshold number of fatalities for Mass Shooting</label>
-        <Select type="minThreshold" onChangeHandler={selectHandler}>
+        <Select type="minThreshold" onChangeHandler={thresholdSelectHandler}>
           {minThresholdOptions}
         </Select>
         <label className="ChartSelectLabel" htmlFor="year">Select Year</label>
-        <Select type="year" onChangeHandler={selectHandler}>
+        <Select type="year" onChangeHandler={yearSelectHandler}>
           {yearOptions}
         </Select>
       </div>

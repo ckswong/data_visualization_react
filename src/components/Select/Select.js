@@ -6,7 +6,7 @@ const Select = ({type, onChangeHandler, children}) => {
     <select
       className="ChartSelect"
       name={type}
-      onChange={(evt)=> onChangeHandler(evt, type)}
+      onChange={(evt)=> onChangeHandler(evt)}
     >
       {children}
     </select>

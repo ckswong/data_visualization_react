@@ -13,14 +13,21 @@ class App extends Component {
 
   /* Handlers ------------------------------------------ */
 
-  selectHandler = (evt, stateKey) => {
-    const {state} = this;
+  yearSelectHandler = (evt) => {
+    const {year} = this.state;
     const updatedVal =  Number(evt.target.value);
-    const isStateSame = state[stateKey] === updatedVal;
+    const isStateSame = year === updatedVal;
     if (!isStateSame) {
-      let stateKeyValue = {};
-      stateKeyValue[stateKey] = updatedVal;
-      this.setState(stateKeyValue);
+      this.setState({year: updatedVal});
+    }
+  }
+
+  thresholdSelectHandler = (evt) => {
+    const {minThreshold} = this.state;
+    const updatedVal =  Number(evt.target.value);
+    const isStateSame = minThreshold === updatedVal;
+    if (!isStateSame) {
+      this.setState({minThreshold: updatedVal});
     }
   }
 
@@ -29,15 +36,21 @@ class App extends Component {
   componentDidMount() {
     fetch('./data.json')
     .then(response => response.json())
-    .then(json => {this.setState({data: json, loading: false})});
+    .then(json => {
+      this.setState({
+        data: json, 
+        loading: false
+      })
+    });
   }
 
   render() {
     const {loading} = this.state;
-    if(loading) return null
+    const {thresholdSelectHandler, yearSelectHandler} = this;
+    if(loading) {return null}
 
     return (
-      <Chart {...this.state} {...this}/>
+      <Chart {...this.state} thresholdSelectHandler={thresholdSelectHandler} yearSelectHandler={yearSelectHandler}/>
     );
   }
 }
